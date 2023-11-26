@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3 | Muhammad Bin Khalid</title>
+    <link>/publication-type/3/</link>
+      <atom:link href="/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
+    <description>3</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 07 May 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>3</title>
+      <link>/publication-type/3/</link>
+    </image>
+    
+    <item>
+      <title>Unintended Consequences of Government Support: Impact of Pakistan’s Flood Relief Program on Adaptation Behavior</title>
+      <link>/publication/capstone/</link>
+      <pubDate>Sun, 07 May 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/capstone/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Blessings of Scarcity: The Institutional Underpinnings of Small States’ Prosperity</title>
+      <link>/publication/small-states/</link>
+      <pubDate>Tue, 07 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/small-states/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
