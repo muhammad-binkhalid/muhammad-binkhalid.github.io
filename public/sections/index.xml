@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sections on Muhammad Bin Khalid</title>
+    <link>//localhost:1313/sections/</link>
+    <description>Recent content in Sections on Muhammad Bin Khalid</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="//localhost:1313/sections/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>//localhost:1313/sections/aboutme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/sections/aboutme/</guid>
+      <description>&lt;p&gt;I am a Research Fellow (predoc) at &lt;a href=&#34;https://www.hks.harvard.edu/centers/cid&#34;&gt;Harvard University&lt;/a&gt;, working with Prof. &lt;a href=&#34;https://khwaja.scholars.harvard.edu/&#34;&gt;Asim Khwaja&lt;/a&gt;. Prior to joining Harvard, I was a research assistant at &lt;a href=&#34;https://nus.edu.sg/&#34;&gt;National University of Singapore&lt;/a&gt; with Profs. &lt;a href=&#34;https://www.martin-mattsson.com/home&#34;&gt;Martin Mattsson&lt;/a&gt; and &lt;a href=&#34;https://sites.google.com/site/yogitashamdasani/&#34;&gt;Yogita Shamdasani&lt;/a&gt;, and at &lt;a href=&#34;https://yrise.yale.edu/&#34;&gt;Yale RISE&lt;/a&gt; with Prof. &lt;a href=&#34;https://faculty.som.yale.edu/mushfiqmobarak/&#34;&gt;Mushfiq Mobarak&lt;/a&gt;. I hold a Bachelor of Arts (Honors, Magna Cum Laude) from &lt;a href=&#34;https://www.yale-nus.edu.sg/&#34;&gt;Yale-NUS College&lt;/a&gt;, with a major in Economics and a minor in Mathematical, Computational, and Statistical Sciences.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;../pdf/CV_mbk.pdf&#34;&gt;Curriculum Vitae&lt;/a&gt;&lt;/strong&gt; (Updated Dec 2025)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>//localhost:1313/sections/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/sections/contact/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Email&lt;/strong&gt;: &lt;a href=&#34;mbinkhalid@hks.harvard.edu&#34;&gt;mbinkhalid@hks.harvard.edu&lt;/a&gt;&lt;br&gt;&#xA;&lt;strong&gt;Phone&lt;/strong&gt;: +1-857-829-0530&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>//localhost:1313/sections/from-another-life/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/sections/from-another-life/</guid>
+      <description>&lt;p&gt;Interactions between Organizations and Networks in Common-Pool Resource Governance, with Arun Agrawal, Dan Brown, Rick Riolo and Derek Robinson, &lt;u&gt;Environmental Science &amp;amp; Policy&lt;/u&gt;, Volume 25, January 2013, Pages 138–146&lt;/p&gt;&#xA;&lt;p&gt;Preservation or degradation? Communal management and ecological change in a southeast Michigan forest, with Fred Nelson, Elisa Collins, Alain Frechette, Cynthia Koenig, Mosé Jones-Yellin, Brihannala Morgan, Gita Ramsay, and Claudia Rodriguez, &lt;u&gt;Biodiversity and Conservation&lt;/u&gt;, October 2008, Volume 17, Issue 11, pp 2757-2772&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>//localhost:1313/sections/personal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/sections/personal/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Pakistan Census Panel&lt;/strong&gt;:&#xA;I digitized ~6,000 village maps and ~4,500 pages of historical censuses to produce a village level geo-spatial, administrative dataset for Sindh, Pakistan, covering population and infrastructure variables over the past 7 decades (1961-2023). An interactive dashboard displaying the data is available &lt;a href=&#34;https://muhammad-binkhalid.github.io/pakcensus-panel/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

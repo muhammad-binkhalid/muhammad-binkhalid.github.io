@@ -1,0 +1,15 @@
+relativeURLs = true
+title = "Muhammad Bin Khalid"
+theme = "academimal"
+sectionPagesMenu = "main"
+defaultContentLanguage = "en"
+ignorefiles = [ "hugo_travis_ci", ".travis.yml" ]
+
+[params]
+    shortbio = "Research Fellow, Harvard University"
+    logo = "avatar.jpg" 
+    
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
